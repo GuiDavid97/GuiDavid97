@@ -12,7 +12,7 @@
 Atuo como **Desenvolvedor Power Platform**, criando soluções inteligentes e automatizadas utilizando:
 
 - 📊 **Power BI** — para visualização e análise de dados  
-- 📱 **Power Apps** — para desenvolvimento de aplicações low-code  
+- 📱 **Power Apps** — Desenvolvimento de solução avançadas 
 - 🔄 **Power Automate** — para automação de processos empresariais  
 
 ---
